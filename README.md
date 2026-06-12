@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @jsmart
+- 👋 Hi, I’m jsmart
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on gaming devloper
-- 📫 How to reach me +2349067738738
-  😄 Pronouns: jsmart
 - ⚡ Fun fact: always active
 - 
 
